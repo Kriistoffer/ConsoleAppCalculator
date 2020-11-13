@@ -1,0 +1,7 @@
+C:\Users\KristofferJohansson\source\repos\ConsoleAppCalculator\ConsoleAppCalculator\bin\Debug\ConsoleAppCalculator.exe.config
+C:\Users\KristofferJohansson\source\repos\ConsoleAppCalculator\ConsoleAppCalculator\bin\Debug\ConsoleAppCalculator.exe
+C:\Users\KristofferJohansson\source\repos\ConsoleAppCalculator\ConsoleAppCalculator\bin\Debug\ConsoleAppCalculator.pdb
+C:\Users\KristofferJohansson\source\repos\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\ConsoleAppCalculator.csproj.CoreCompileInputs.cache
+C:\Users\KristofferJohansson\source\repos\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\ConsoleAppCalculator.exe
+C:\Users\KristofferJohansson\source\repos\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\ConsoleAppCalculator.pdb
+C:\Users\KristofferJohansson\source\repos\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\ConsoleAppCalculator.csprojAssemblyReference.cache
